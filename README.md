@@ -1,8 +1,8 @@
 # PyBer Ride Share Analysis
 ## Overview and Scope of the Analysis
-At the request of the PyBer companies CEO, we were to conduct an analysis of ride-sharing data for a given region. The main focus of this analysis was to look at and compare different key performance indicators for the rural, suburban and urban areas. The KPIs that we looked are were Total Fare by city type per week, total rides per area, avg fare per ride and average fare per driver per a given timeframe.
+At the request of the PyBer companies CEO, we were to conduct an analysis of ride-sharing data for a given region. The main focus of this analysis was to look at and compare different key performance indicators for the rural, suburban and urban areas. The KPIs that we looked at were Total Fare by city type per week, total rides per area, avg fare per ride and average fare per driver per a given timeframe.
 ## Results
-Following is a comparison of the original school district analysis to the revised analysis once the 9th grade scores from Thomas High School have been removed.
+Following is a comparison and discussion of some key findings during the analysis of the rideshare data analysis.
 
   ![Ride Share Summary Data](/analysis/Rideshare_summary.png)
   >Key metrics for the different city types.
