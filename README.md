@@ -4,9 +4,13 @@ At the request of the PyBer companies CEO, we were to conduct an analysis of rid
 ## Results
 Following is a comparison and discussion of some key findings during the analysis of the rideshare data analysis.
 
-  ![Ride Share Summary Data](/analysis/Rideshare_summary.png)
+  ![Ride Share Summary Data](/analysis/Rideshare_summary.PNG)
   >Key metrics for the different city types.
-  
+ 
+The above summary demostrates some data that one might expect, the ***Urban*** region had the most **Total Rides, Total Drivers and Total Fares**. The second most was the ***Suburban*** cities and finally the ***Rural*** cities had the least.
+
+However, this is flipped when we look at the Average Fare data. We see that the Rural cities had the largest Avg. Fare Per Ride, a little over 33% more than the Urban cities and about 12% more than the Suburban cities. This holds true for the Avg. Fare per Driver with the Rural drivers taking in about 230% more and about 40% more per ride than their Urban and Suburban counterparts respectively. 
+
   ![Total Fares by City Type](/analysis/PyBer_fare_summary.png)
   >Total Fares by City Type
   
