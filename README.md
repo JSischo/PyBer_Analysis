@@ -6,7 +6,7 @@ At the request of the PyBer companies CEO, we were to conduct an analysis of rid
 Following is a comparison and discussion of some key findings during the analysis of the rideshare data.
 
   ![Ride Share Summary Data](/analysis/Rideshare_summary.PNG)
-  >Key metrics for the different city types.
+  >***Key metrics for the different city types.***
  
 The above summary demostrates some data that one might expect, the ***Urban*** region had the most **Total Rides, Total Drivers and Total Fares**. The second most was the ***Suburban*** cities and finally the ***Rural*** cities had the least.
 
@@ -20,7 +20,7 @@ What we do see is a few items of note:
 3. There seems to be a small common uptip in Total Fares in all 3 City Types in late February.
 
   ![Total Fares by City Type](/analysis/PyBer_fare_summary.png)
-  >Total Fares by City Type
+  >***Total Fares by City Type***
   
   
 ## Summary
